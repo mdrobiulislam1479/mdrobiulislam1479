@@ -1,7 +1,11 @@
 <img style="100%" src="https://i.ibb.co.com/Y7n16Bq1/Dark-Blue-Holographic-Twitter-Header.png" alt="Md Robiul Islam"  />
 
 <h1>Hi 👋 I'm Md Robiul Islam</h1>
-<h2>Frontend Developer | MERN Stack Developer In Progress | Focused on Scalable & Modern Web Apps</h2>
+<h2>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Web+Developer;MERN+Stack+Developer;React+%26+Next.js+Enthusiast;Quick+Learner)](https://git.io/typing-svg)
+  
+</h2>
 
 <h2>About Me:</h2>
 <p>I'm a MERN Stack Developer with a strong focus on frontend development. I enjoy building responsive, user-friendly web applications that deliver seamless experiences. While I can handle the full MERN stack, my real passion lies in crafting elegant and dynamic frontend interfaces using modern tools and frameworks.</p>
