@@ -32,7 +32,8 @@
   <a href="https://discord.com/users/1440255592794034207">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="wa.me/+8801402353404">
+  <a href="mailto:mdrobiulislam1479@gmail.com
+">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   
