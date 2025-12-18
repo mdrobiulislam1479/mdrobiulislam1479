@@ -1,9 +1,9 @@
-<img style="100%" src="https://i.ibb.co.com/WvQLLfvf/Dark-Gray-Simple-Business-Consultant-Linkedin-Banner.png" alt="Md Robiul Islam"  />
+<img width="100%" src="https://i.ibb.co.com/wFJc653T/Gemini-Generated-Image-armnh9armnh9armn.png" alt="Md Robiul Islam"  />
 
 <h1>Hi 👋 I'm Md Robiul Islam</h1>
 <h2>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Web+Developer;MERN+Stack+Developer;React+%26+Next.js+Enthusiast;Quick+Learner)](https://git.io/typing-svg)
+  MERN Stack Developer | Frontend Developer | Quick Learner | React.js & Next.js Enthusiast
   
 </h2>
 
