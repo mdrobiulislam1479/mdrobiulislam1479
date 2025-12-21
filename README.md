@@ -1,11 +1,9 @@
 <img width="100%" src="https://i.ibb.co.com/wFJc653T/Gemini-Generated-Image-armnh9armnh9armn.png" alt="Md Robiul Islam"  />
 
-<h1>Hi 👋 I'm Md Robiul Islam</h1>
-<h2>
-  
-  MERN Stack Developer | Frontend Developer | Quick Learner | React.js & Next.js Enthusiast
-  
-</h2>
+<h1 align="center">Hi 👋 I'm Md Robiul Islam</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Developer;Quick+Learner;React.js+%26+Next.js+Enthusiast" alt="Typing SVG" />
+</p>
 
 <h2>About Me:</h2>
 <p>I'm a MERN Stack Developer with a strong focus on frontend development. I enjoy building responsive, user-friendly web applications that deliver seamless experiences. While I can handle the full MERN stack, my real passion lies in crafting elegant and dynamic frontend interfaces using modern tools and frameworks.</p>
@@ -44,16 +42,18 @@
 <h2>Let's Connect:</h2>
 <ul>
   <li>Email: <a href="mdrobiulislam1479@gmail.com">mdrobiulislam1479@gmail.com</a></li>
-  <li>WhatsApp: +880 1402-353404</li>
+  <li>WhatsApp: <a href="https://wa.me/8801402353404">+8801402-353404</a></li> 
 </ul>
 
 <h2>GitHub Stats:</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrobiulislam1479&show_icons=true&theme=transparent)
+| GitHub Stats | Top Languages |
+|:----:|:----:|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrobiulislam1479&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrobiulislam1479&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrobiulislam1479&theme=transparent)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrobiulislam1479&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+| Contribution Streak |
+|:----:|
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrobiulislam1479&theme=transparent)](https://git.io/streak-stats) |
 
 ###
 
