@@ -49,11 +49,11 @@
 
 | GitHub Stats | Top Languages |
 |:----:|:----:|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrobiulislam1479&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrobiulislam1479&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
+| ![](https://github-readme-stats.vercel.app/api?username=mdrobiulislam1479&theme=dark&hide_border=true&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrobiulislam1479&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
 
 | Contribution Streak |
 |:----:|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrobiulislam1479&theme=transparent)](https://git.io/streak-stats) |
+| [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=mdrobiulislam1479&theme=dark&hide_border=true)](https://git.io/streak-stats) |
 
 ###
 
